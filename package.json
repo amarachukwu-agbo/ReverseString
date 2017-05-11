@@ -1,0 +1,22 @@
+{
+  "name": "reverse_string",
+  "version": "1.0.0",
+  "description": "A function that returns the reverse of a string",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "jasmine spec/test.js"
+  },
+  "keywords": [
+    "string",
+    "reverse",
+    "string"
+  ],
+  "author": "Agbo Amarachukwu <amarachukwu.agbo@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
